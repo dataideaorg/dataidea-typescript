@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "dataidea-typescript"
+  site-url: "https://dataideaorg.github.io/dataidea-typescript"
+  description: "TypeScript Full Course"
+  repo-branch: main
+  repo-url: "https://github.com/dataideaorg/dataidea-typescript"
